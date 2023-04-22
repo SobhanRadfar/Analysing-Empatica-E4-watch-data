@@ -14,7 +14,7 @@ It has two functions plot_bio_measurements and plot_Non_Bio_Measurements and the
 
 
 - How to run the code:
-All the mentioned file above, are imported to the main.ipynb. to get all the result need to run blocks in main.ipynb.
+All the mentioned files above, are imported to the main.ipynb. to get all the result need to run blocks in main.ipynb.
 
 - warning : Analysing Feature section in main.ipynb takes too long to run it. For this problem, after first run I saved the results in results.txt. it consist of all feature combination, their scores, winndows size and stride
 
