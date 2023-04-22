@@ -9,5 +9,13 @@ The preprocessor class is designed for preprocessing time series data, particula
 3. Model.py
 The Model class, which inherits from RandomForestClassifier, is designed to train and evaluate a stress detection model using physiological signals. The class initializes a RandomForestClassifier with the provided keyword arguments and contains methods for training, testing, and evaluating the model. The train method performs Leave-One-Subject-Out cross-validation, reporting performance metrics for each iteration. The test method evaluates the model on a separate test dataset, while the evaluation method computes accuracy and F1 score for the given predictions. Additionally, the important_features method displays the feature importances of the trained model, visualizing them as a bar plot to help users understand the significance of each feature in the model.
 
-4.
+4. plot_data.py
+It has two functions plot_bio_measurements and plot_Non_Bio_Measurements and they plot HR, EDA, IBI_d, TEMP, BVP, ACC
+
+
+- How to run the code
+All the mentioned file above, are imported to the main.ipynb. to get all the result need to run blocks in main.ipynb.
+
+- warning : Analysing Feature section in main.ipynb takes too long to run it. For this problem, after first run I saved the results in results.txt. it consist of all feature combination, their scores, winndows size and stride
+
  
