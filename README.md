@@ -14,7 +14,6 @@ This repository serves as a comprehensive guide, containing detailed scripts for
 This project is developed using Python version 3.8.13. It relies on the following third-party libraries:
 
 ```
--f https://data.pyg.org/whl/torch-2.0.1+cpu.html
 numpy
 pandas
 scipy
@@ -43,14 +42,14 @@ project
 # 3. Instructions for Execution
 
 
-## 3.2. Training the Model
+## 3.1. Training the Model
 
 To train the model:
 1. Open the `main.ipynb` notebook.
 2. Navigate to the **Run Training** section.
 3. Multiple configurations are available for training. Choose the desired configuration and execute the respective cells.
 
-## 3.3. Testing the Model
+## 3.2. Testing the Model
 
 To test the model:
 1. Open the `main.ipynb` notebook.
