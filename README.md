@@ -60,36 +60,36 @@ To test the model:
 # 4. Features
 
 
-## PCKh@0.5 Performance
+## Heart Beat
 
 <figure>
   <img src="./assets/HR.png" />
-  <div style="display:flex; align-items:center; justify-content: center;"><figcaption><b>Figure 2</b>: Stacked Hourglass Network</figcaption></div>
+  <div style="display:flex; align-items:center; justify-content: center;"></div>
 </figure>                |
 
 
-## PCKh@0.5 Performance
+## BVP
 <figure>
   <img src="./assets/BVP.png" />
-  <div style="display:flex; align-items:center; justify-content: center;"><figcaption><b>Figure 2</b>: Stacked Hourglass Network</figcaption></div>
+  <div style="display:flex; align-items:center; justify-content: center;"></div>
 </figure>
 
-## PCKh@0.5 Performance
+## EA
 <figure>
   <img src="./assets/EA.png" />
-  <div style="display:flex; align-items:center; justify-content: center;"><figcaption><b>Figure 2</b>: Stacked Hourglass Network</figcaption></div>
+  <div style="display:flex; align-items:center; justify-content: center;"></div>
 </figure>
 
-## PCKh@0.5 Performance
+## TEMP
 <figure>
   <img src="./assets/TEMP.png" />
-  <div style="display:flex; align-items:center; justify-content: center;"><figcaption><b>Figure 2</b>: Stacked Hourglass Network</figcaption></div>
+  <div style="display:flex; align-items:center; justify-content: center;"></div>
 </figure>
 
-## PCKh@0.5 Performance
+## IBI
 <figure>
   <img src="./assets/IB.png" />
-  <div style="display:flex; align-items:center; justify-content: center;"><figcaption><b>Figure 2</b>: Stacked Hourglass Network</figcaption></div>
+  <div style="display:flex; align-items:center; justify-content: center;"></div>
 </figure>
 
 
